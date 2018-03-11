@@ -2,7 +2,7 @@
 title: "Assignment 9"
 author: "Jonathan Flores"
 date: "March 6, 2018"
-output: html_document
+output: github_document
 ---
 
 
